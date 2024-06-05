@@ -1,0 +1,3 @@
+tabs: ["src/Tour.jsx", "src/App.jsx", "src/Tours.jsx"]
+terminals: ["bun install && bun dev"]
+run-button: bun dev
